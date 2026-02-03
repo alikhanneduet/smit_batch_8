@@ -1,0 +1,17 @@
+I love python
+I practice python
+I sometimes stuck in python
+
+Create a new file learning_python.txt
+
+write three line in the file
+I love python
+I practice python
+I sometimes stuck in python
+
+Read the lines and replace python with java in each line where you find python
+
+print the newly modified lines to the screen, the output should be like below
+I love java
+I practice java
+I sometimes stuck in java
